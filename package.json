@@ -1,0 +1,9 @@
+{
+  "name": "mpnp",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "json-sockets":  ">= 0.0.1",
+    "coffee-script": ">= 0.0.1"
+  }
+}
