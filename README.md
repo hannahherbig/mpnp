@@ -1,12 +1,13 @@
 # mpnp
 #### multiplayer notepad
 
-install [node.js](http://nodejs.org) and [npm](http://npmjs.org), and run
+Install [node.js][], [npm][], and [git][], then run
 
+    git clone git://github.com/andrew12/mpnp.git
+    cd mpnp
     npm install
-
-which will install the dependencies. then run
-
     node client.coffee
 
-to connect to my awesome multiplayer notepad server, which will be up sometimes.
+[node.js]: http://nodejs.org
+[npm]: http://npmjs.org
+[git]: http://git-scm.com/
